@@ -1,0 +1,63 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Arica and Tom found 11 red balloons and 7 blue balloons. Find the total number of balloons.",
+    "options":["1","1","0","7","",""],
+    "answers": ["1","1","0","7","1","8"]
+  },
+  {
+    "questionNo": 2,
+    "question": "Next they found 13 yellow streamers and 11 green streamers. Find the total streamers.",
+    "options":["1","3","1","1","",""],
+    "answers": ["1","3","1","1","2","4"]
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "Arica made 24 candy bags and Tom made 21 candy bags. Find the total number of candy bags.",
+    "options":["2","4","2","1","",""],
+    "answers": ["2","4","2","1","4","5"]
+  },
+  {
+    "questionNo": 4,
+    "question": "Mrs. Green has some toys and plans to buy more. Find the total number of toys.",
+    "options":["3","8","4","1","",""],
+    "answers": ["3","8","4","1","7","9"]
+  },
+  {
+    "questionNo": 5,
+    "question": "Tom sold 56 tickets And Lily sold 30 tickets. Find the total number of tickets.",
+    "options":["5","6","3","0","",""],
+    "answers": ["5","6","3","0","8","6"]
+  },
+  {
+    "questionNo": 6,
+    "question": "There are some food stalls, and they plan to add more. Find the total number of food stalls.",
+    "options":["2","7","1","1","",""],
+    "answers": ["2","7","1","1","3","8"]
+  },
+  {
+    "questionNo": 7,
+    "question": "Arica and Tom are responsible for putting up posters. Find the total number of posters put by them.",
+    "options":["4","4","2","3","",""],
+    "answers": ["4","4","2","3","6","7"]
+  },
+  {
+    "questionNo": 8,
+    "question": "They decided to put on games for the carnival. Find the total number of games.",
+    "options":["2","7","1","2","",""],
+    "answers": ["2","7","1","2","3","9"]
+  },
+  {
+    "questionNo": 9,
+    "question": "Find the total number of volunteers in the carnival by adding the given numbers.",
+    "options":["5","2","3","6","",""],
+    "answers": ["5","2","3","6","8","8"]
+  },
+  {
+    "questionNo": 10,
+    "question": "They have 16 tables and order 23 more. Find the total number of tables.",
+    "options":["1","6","2","3","",""],
+    "answers": ["1","6","2","3","3","9"]
+  }
+]
